@@ -218,6 +218,7 @@
 
 		function fixExifOrientation($img) {
 			$img.on('load', function(e) {
+
 				EXIF.getData($img[0], function() {
 					//alert('Exif=', EXIF.getTag(this, "Orientation"));
 					if(!isSafari) {

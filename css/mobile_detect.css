@@ -1,0 +1,21 @@
+.visible-android {
+  display:none;
+}
+.visible-ios {
+  display:none;
+}
+.on-device .visible-android, .on-device .visible-android {
+  display:inherit;
+}
+.device-ios .visible-android {
+  display:none !important;
+}
+.device-ios .hidden-ios {
+  display:none !important;
+}
+.device-android .hidden-android {
+  display:none !important;
+}
+.device-android .visible-ios {
+  display:none !important;
+}

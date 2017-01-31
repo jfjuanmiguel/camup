@@ -1,0 +1,175 @@
+/* --------  all screens (default) -----------  */
+	
+	
+    #mydiv {
+		width: 30%;
+    	font-size: 0px;
+		background-color: #ffffff;
+    }
+	
+	#div_back {
+		width: 100%;
+    	font-size: 0px;
+        background-image:url(../images/login_back.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+    }
+
+	#image-holder
+	{
+		float:left;
+		width:100%;
+		background-color: #CCC;
+		position:relative;
+		height:442px;
+		max-height: 600px;
+	}
+	
+	
+/* --------- iphone portrait -----------  */
+
+@media screen and (max-width: 320px) {
+	
+    #mydiv {
+		width: 100%;
+    	font-size: 0px;
+        background-color: #ffffff;
+    }
+	
+	#div_back {
+		width: 100%;
+    	font-size: 0px;
+        background-image:url(../images/login_back.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+    }
+
+	#image-holder
+	{
+		float:left;
+		width:100%;
+		background-color: #CCC;
+		position:relative;
+		height:442px;
+		max-height: 600px;
+	}
+			
+}
+
+/* --------  iphone landscape-----------  */
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+	
+	#mydiv {
+		width: 100%;
+    	font-size: 0px;
+        background-color: #ffffff;
+    }
+	
+	#div_back {
+		width: 100%;
+    	font-size: 0px;
+        background-image:url(../images/login_back.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+    }
+
+	#image-holder
+	{
+		float:left;
+		width:100%;
+		background-color: #CCC;
+		position:relative;
+		height:442px;
+		max-height: 600px;
+	}
+ 	
+}
+
+/* --------- mini ipad portrait -------------  */
+
+@media screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+	
+    #mydiv {
+		width: 100%;
+    	font-size: 0px;
+		background-color: #ffffff;
+    }
+	
+	#div_back {
+		width: 100%;
+    	font-size: 0px;
+        background-image:url(../images/login_back.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+    }
+
+	#image-holder
+	{
+		float:left;
+		width:100%;
+		background-color: #CCC;
+		position:relative;
+		height:481px;
+		max-height: 1024px;
+	}
+		
+}
+
+/* --------- ipad landscape -------------  */
+
+@media screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+	
+	#mydiv {
+		width: 100%;
+    	font-size: 0px;
+        background-color: #ffffff;
+    }
+	
+	#div_back {
+		width: 100%;
+    	font-size: 0px;
+        background-image:url(../images/login_back.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+    }
+	#image-holder
+	{
+		float:left;
+		width:100%;
+		background-color: #CCC;
+		position:relative;
+		height:481px;
+		max-height: 1024px;
+	}
+	
+}
+
+/* --------  large screen ( 1440px or more) -----------  */
+
+@media screen and (min-width: 1440px) {
+		
+    #mydiv {
+		width: 30%;
+    	font-size: 0px;
+        background-color: #ffffff;
+    }
+	
+	#div_back {
+		width: 100%;
+    	font-size: 0px;
+        background-image:url(../images/login_back.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+    }
+	#image-holder
+	{
+		float:left;
+		width:100%;
+		background-color: #CCC;
+		position:relative;
+		height:1440px;
+		max-height: 1600px;
+	}
+	
+}

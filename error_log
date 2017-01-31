@@ -1,0 +1,27 @@
+[20-May-2016 01:49:11 UTC] PHP Fatal error:  Call to a member function cargarImagen() on a non-object in /home/kristiansp2000/public_html/gus/camup/camup.php on line 18
+[20-May-2016 01:49:41 UTC] PHP Fatal error:  Call to a member function cargarImagen() on a non-object in /home/kristiansp2000/public_html/gus/camup/camup.php on line 18
+[20-May-2016 02:00:11 UTC] PHP Fatal error:  Call to a member function cargarImagen() on a non-object in /home/kristiansp2000/public_html/gus/camup/camup.php on line 18
+[20-May-2016 02:00:29 UTC] PHP Fatal error:  Call to a member function cargarImagen() on a non-object in /home/kristiansp2000/public_html/gus/camup/camup.php on line 18
+[20-May-2016 02:02:37 UTC] PHP Fatal error:  Call to private method Imgutils::up_image() from context '' in /home/kristiansp2000/public_html/gus/camup/camup.php on line 19
+[20-May-2016 02:03:18 UTC] PHP Fatal error:  Call to private method Imgutils::up_image() from context '' in /home/kristiansp2000/public_html/gus/camup/camup.php on line 19
+[20-May-2016 02:30:17 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:40:29 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:44:56 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:48:00 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:50:42 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 6
+[20-May-2016 02:50:52 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 6
+[20-May-2016 02:52:49 UTC] PHP Fatal error:  Class 'Imgutils' not found in /home/kristiansp2000/public_html/gus/camup/camup.php on line 23
+[20-May-2016 02:53:24 UTC] PHP Fatal error:  Class 'Imgutils' not found in /home/kristiansp2000/public_html/gus/camup/camup.php on line 23
+[20-May-2016 02:53:48 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 6
+[20-May-2016 02:54:28 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:54:37 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:54:47 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 02:59:46 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:00:24 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:00:31 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:00:50 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:02:16 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:04:49 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:05:12 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 5
+[20-May-2016 03:10:18 UTC] PHP Fatal error:  Class 'ImageManipulator' not found in /home/kristiansp2000/public_html/gus/camup/imgutils.php on line 26
+[20-May-2016 03:34:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19400 bytes) in /home/kristiansp2000/public_html/gus/camup/ImageManipulator.php on line 53

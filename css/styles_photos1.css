@@ -1,0 +1,83 @@
+#photo1 {
+	width: 100%;
+	height: 478px;
+	background-color: #f0f0f0;
+}
+
+html, body,#wrapper{  height: 100%; }
+ 
+      #form-container{ display:none; }
+      #image-holder {
+    	    width: 100%;
+    	    min-height: 100%;
+    	    background-color: #CCC;
+		}
+      #button-area{
+          text-align: center;
+          background-color: #3E3E3E;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          position: relative;
+      }
+
+
+      #img-submit{ cursor: pointer;}
+
+      /* i magen que se esta cargando */
+      .thumb-image{
+        width:100%;
+      }
+
+/*   ------------------------  */
+        .testCssJuan {
+            margin-top: 60px;
+        }
+
+         .rotate-90 {
+            -moz-transform: rotate(90deg);
+            -webkit-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+          }
+
+          .rotate-180 {
+            -moz-transform: rotate(180deg);
+            -webkit-transform: rotate(180deg);
+            -o-transform: rotate(180deg);
+            transform: rotate(180deg);
+          }
+
+          .rotate-270 {
+            -moz-transform: rotate(270deg);
+            -webkit-transform: rotate(270deg);
+            -o-transform: rotate(270deg);
+            transform: rotate(270deg);
+          }
+
+          .flip {
+            -moz-transform: scaleX(-1);
+            -webkit-transform: scaleX(-1);
+            -o-transform: scaleX(-1);
+            transform: scaleX(-1);
+          }
+
+          .flip-and-rotate-90 {
+            -moz-transform: rotate(90deg) scaleX(-1);
+            -webkit-transform: rotate(90deg) scaleX(-1);
+            -o-transform: rotate(90deg) scaleX(-1);
+            transform: rotate(90deg) scaleX(-1);
+          }
+
+          .flip-and-rotate-180 {
+            -moz-transform: rotate(180deg) scaleX(-1);
+            -webkit-transform: rotate(180deg) scaleX(-1);
+            -o-transform: rotate(180deg) scaleX(-1);
+            transform: rotate(180deg) scaleX(-1);
+          }
+
+          .flip-and-rotate-270 {
+            -moz-transform: rotate(270deg) scaleX(-1);
+            -webkit-transform: rotate(270deg) scaleX(-1);
+            -o-transform: rotate(270deg) scaleX(-1);
+            transform: rotate(270deg) scaleX(-1);
+          }

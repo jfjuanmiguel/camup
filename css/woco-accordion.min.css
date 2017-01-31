@@ -1,0 +1,11 @@
+.drawer{width:100%;border-top:0px solid #fff;}
+.accordion-item{border-bottom:0px solid #fff;}
+.accordion-item-active .accordion-header{background:#fff;transition:.25s;}
+.accordion-item-active .accordion-header-icon{color:#fff;}
+.accordion-item-active .accordion-header h1{color:#fff;}
+.accordion-header{background:#fff;padding:0px;cursor:pointer;border:0px; border-color:#ffffff;min-height:45px;transition:.25s;}
+.accordion-header h1{float:right;font-size:12px;font-weight: normal;margin:0;line-height:0em;color:#212121;}
+.accordion-content{border:0px solid #fff;display:none;padding:0px;color:#000;background:#fff;font-size:15px;line-height:1.45em;}
+.accordion-content p{margin:0;margin-bottom:3px;}
+.accordion-header-icon{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;float:right;color:#fff;font-size:15px;vertical-align:middle;display:none}
+.accordion-header-icon.accordion-header-icon-active{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);color:#fff;}
